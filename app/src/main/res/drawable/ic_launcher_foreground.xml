@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Shield with a stylized phone handset cutout -->
+    <!-- Safe zone is 66x66dp, centered at (54, 54) -->
+    <!-- Bounds are from 21 to 87 on both axes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24c-11,0 -20,6 -20,18v12c0,12 20,24 20,24s20,-12 20,-24V42C74,30 65,24 54,24zM62,58c-1.5,1.5 -4.5,2.5 -8,2.5s-6.5,-1 -8,-2.5c-1.5,-1.5 -2.5,-3.5 -2.5,-5.5s1,-4 2.5,-5.5c1.5,-1.5 4.5,-2.5 8,-2.5s6.5,1 8,2.5c1.5,1.5 2.5,3.5 2.5,5.5S63.5,56.5 62,58z" />
+    <!-- Diagonal Slash to indicate "Blocking" -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M42,42l24,24l2,-2l-24,-24z" />
+</vector>
